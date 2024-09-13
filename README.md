@@ -10,7 +10,7 @@
 ![자바](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-thebadge&logo=mysql&logoColor=white)
 
 **🛠️ Infra and Tools**
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
