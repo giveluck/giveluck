@@ -1,6 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Giveluck%20&)
 
-<div align="center">
 
 #### Hello! Here is dohun github!!
 
