@@ -31,9 +31,21 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ## 🌟 팀 프로젝트  
-[S.C.Vs (Stocknews Collection Viewers)](https://github.com/27kdt3team/team3.git)<br>
-설명: KDT 27회차 3조 팀 프로젝트입니다. <br>
-Spring Boot와 JPA, Thymeleaf를 사용한 개인화 주식 종목 뉴스 플랫폼 프로젝트 입니다
+### [S.C.Vs (Stocknews Collection Viewers)](https://github.com/27kdt3team/team3.git)
+ **주요 기능**  
+  주식 종목 뉴스 수집 및 개인화된 뉴스 제공  
+  감정 분석을 통한 뉴스 분류 및 사용자 맞춤 뉴스 추천  
+ **사용 기술**  
+  **백엔드**: Spring Boot, JPA, MySQL  
+  **프론트엔드**: Thymeleaf  
+  **감정 분석**: Python 기반 분석 모델 연동  
+ **역할**  
+  기사 감정 분석 적용 및 DB 설계  
+  토론방 페이지 디자인 및 백엔드 기능 구현  
+ **성과**  
+  개인화된 주식 종목 뉴스 플랫폼 구현  
+  주식과 관련된 다양한 뉴스를 수집 및 가공해 사용자 맞춤형 뉴스 제공  
+
 
 
 
