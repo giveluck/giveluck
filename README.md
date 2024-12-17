@@ -47,8 +47,7 @@
   주식과 관련된 다양한 뉴스를 수집 및 가공해 사용자 맞춤형 뉴스 제공  
 
 
-
-
+## 📊 GitHub 활동  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giveluck)](https://github.com/giveluck/github-readme-stats)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=giveluck&show_icons=true&theme=radical)](https://github.com/giveluck)
